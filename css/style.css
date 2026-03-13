@@ -1,0 +1,139 @@
+body{
+            background-color: #000;
+            animation: color-change 20s infinite alternate;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Google Sans', sans-serif;
+        }
+        h1{
+            margin-top: 75px;
+            margin-bottom: 40px;
+        }
+        .container{
+            align-items: center;
+            justify-content: center;
+            gap: 50px;
+        }
+        .container2{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 100px;
+            gap: 300px;
+        }
+        #cards{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            align-items: center;
+            padding: 0 100px;
+        }
+        .card{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #363636;
+    border-radius: 25px;
+    box-shadow: 0 0 75px #585858;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    min-height: 250px;   /* altura mínima */
+    padding: 20px;       /* espaço interno */
+    gap: 10px;
+    margin-top: 30px;
+    animation: border-change 20s infinite alternate;
+}
+        .esquerda{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+            margin-bottom: 50px;
+        }
+        .post{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+        .post input{
+            background-color: transparent;
+            animation: color-change 20s infinite alternate;
+            width: 200px;
+            height: 30px;
+            box-shadow: 0 0 75px #585858;
+            border-radius: 15px;
+        }
+        .post button{
+            background-color: transparent;
+            animation: color-change 20s infinite alternate;
+            margin-top: 5px;
+            cursor: pointer;
+            border-radius: 15px;
+            width: 150px;
+            height: 50px;
+            box-shadow: 0 0 75px #585858;
+        }
+        .post select{
+            background-color: black;
+            animation: color-change 20s infinite alternate;
+            width: 200px;
+            height: 30px;
+            box-shadow: 0 0 75px #585858;
+            border-radius: 15px;
+        }
+        .avanVol{
+            background-color: transparent;
+            animation: color-change 20s infinite alternate;
+            margin-top: 5px;
+            cursor: pointer;
+            border-radius: 15px;
+            width: 150px;
+            height: 50px;
+            box-shadow: 0 0 75px #585858;
+        }
+
+        @keyframes border-change {
+            0% {
+                border-color: rgb(205, 102, 253);
+            }
+            20% {
+                border-color: rgb(233, 57, 57);
+            }
+            40% {
+                border-color: rgb(41, 93, 236);
+            }
+            60% {
+                border-color: rgb(75, 241, 69);
+            }
+            80% {
+                border-color: rgb(88, 255, 247);
+            }
+            100% {
+                border-color: rgb(255, 252, 55);
+            }
+        }
+
+        @keyframes color-change {
+        0% {
+            color: rgb(205, 102, 253);
+        }
+        20% {
+            color: rgb(233, 57, 57);
+        }
+        40% {
+            color: rgb(41, 93, 236);
+        }
+        60% {
+            color: rgb(75, 241, 69);
+        }
+        80% {
+            color: rgb(88, 255, 247);
+        }
+        100% {
+            color: rgb(255, 252, 55);
+        }
+        }

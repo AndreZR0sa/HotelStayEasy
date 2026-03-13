@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Trivago</title>
+
+    <!-- Google Fonts -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap"   rel="stylesheet">
+
+     <!-- CSS -->
+      <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Hotel Trivago</h1>
+    <main class="container">
+        <section class="esquerda">
+            <form action="" id="hotelForm" class="post">
+                <label for="nome">Nome do Hotel:</label>
+                <input type="text" id="nome" placeholder="Digite o nome do hotel" required>
+
+                <label for="cidade">Cidade:</label>
+                <input type="text" id="cidade" placeholder="Digite a cidade" required>
+
+                <label for="estrelas">Quantidade de Estrelas:</label>
+                <input type="number" id="estrelas" min="1" max="5" placeholder="Digite a quantidade de estrelas" required>
+
+                <button type="submit">Adicionar Hotel</button>
+            </form>
+            <button class="avanVol" id="nextBtn">Próxima página</button>
+        </section>
+        <section class="direita">
+            <div id="cards"></div>
+        </section>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

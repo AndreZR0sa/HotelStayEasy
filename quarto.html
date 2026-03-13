@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Trivago</title>
+
+    <!-- Google Fonts -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap"   rel="stylesheet">
+
+     <!-- CSS -->
+      <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Hotel Trivago</h1>
+
+    <main class="container">
+        <section class="esquerda">
+            <form action="" id="quartoForm" class="post">
+                <label for="tipo">Tipo do quarto:</label>
+                <input type="text" id="tipo" placeholder="Digite o tipo do quarto" required>
+
+                <label for="preco">Preço do quarto:</label>
+                <input type="number" id="preco" min="0" placeholder="Digite o preço do quarto" required>
+
+                <label for="hotel">Hotel:</label>
+                <select name="hotel" id="hotel"></select>
+
+                <button type="submit">Adicionar Quarto</button>
+            </form>
+            <button class="avanVol" id="backBtn">Voltar página</button>
+        </section>
+        <section class="direita"></section>
+    </main>
+
+    <script src="js/scriptQuarto.js"></script>
+</body>
+</html>
