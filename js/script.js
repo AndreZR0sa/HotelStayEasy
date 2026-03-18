@@ -22,9 +22,12 @@ async function buscarHoteis(){
         dados.forEach((dado) => {
             let card = document.createElement("div");
             card.classList.add("card");
+            const estrelasCheias = "⭐".repeat(dado.qtdEstrelas);
+            const estrelasVazias = "☆".repeat(5 - dado.qtdEstrelas);
+            const estrelas = estrelasCheias + estrelasVazias;
             card.innerHTML = card.innerHTML = `
                         <h2>${dado.nome}</h2>
-                        <p>${dado.qtdEstrelas} estrelas</p>
+                        <p>${estrelas}</p>
                         <button onclick="mostrarDetalhes(${dado.id})" class="avanVol">Ver Detalhes</button>
                         <div id="detalhes_hotel_${dado.id}" style="display:none"></div>
                         `;
