@@ -96,6 +96,17 @@ body{
             box-shadow: 0 0 75px #585858;
         }
 
+        .avanVol :hover{
+            background-color: transparent;
+            animation: color-change 20s infinite alternate;
+            margin-top: 5px;
+            cursor: pointer;
+            border-radius: 15px;
+            width: 150px;
+            height: 50px;
+            box-shadow: 0 0 75px #585858;
+        }
+
         @keyframes border-change {
             0% {
                 border-color: rgb(205, 102, 253);
