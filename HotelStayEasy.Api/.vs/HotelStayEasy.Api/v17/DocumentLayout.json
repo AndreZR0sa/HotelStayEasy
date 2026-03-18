@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|c:\\users\\49202808821\\source\\repos\\hotelstayeasy\\hotelstayeasy.api\\hotelstayeasy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|solutionrelative:hotelstayeasy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|c:\\users\\49202808821\\source\\repos\\hotelstayeasy\\hotelstayeasy.api\\hotelstayeasy.api\\controllers\\quartoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|solutionrelative:hotelstayeasy.api\\controllers\\quartoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|c:\\users\\49202808821\\source\\repos\\hotelstayeasy\\hotelstayeasy.api\\hotelstayeasy.api\\models\\dtos\\criarhoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|solutionrelative:hotelstayeasy.api\\models\\dtos\\criarhoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|c:\\users\\49202808821\\source\\repos\\hotelstayeasy\\hotelstayeasy.api\\hotelstayeasy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|solutionrelative:hotelstayeasy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD037A07-A3B9-4E00-B099-1E1712148F43}|HotelStayEasy.Api\\HotelStayEasy.Api.csproj|c:\\users\\49202808821\\source\\repos\\hotelstayeasy\\hotelstayeasy.api\\hotelstayeasy.api\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,16 +42,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QuartosController.cs",
               "DocumentMoniker": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Controllers\\QuartosController.cs",
               "RelativeDocumentMoniker": "HotelStayEasy.Api\\Controllers\\QuartosController.cs",
-              "ToolTip": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Controllers\\QuartosController.cs*",
-              "RelativeToolTip": "HotelStayEasy.Api\\Controllers\\QuartosController.cs*",
+              "ToolTip": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Controllers\\QuartosController.cs",
+              "RelativeToolTip": "HotelStayEasy.Api\\Controllers\\QuartosController.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAAwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T16:32:35.148Z",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HoteisController.cs",
               "DocumentMoniker": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Controllers\\HoteisController.cs",
               "RelativeDocumentMoniker": "HotelStayEasy.Api\\Controllers\\HoteisController.cs",
@@ -83,15 +83,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Program.cs",
               "RelativeDocumentMoniker": "HotelStayEasy.Api\\Program.cs",
               "ToolTip": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Program.cs",
               "RelativeToolTip": "HotelStayEasy.Api\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:33:21.693Z"
+              "WhenOpened": "2026-03-11T13:33:21.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StayEasyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Data\\StayEasyDbContext.cs",
               "RelativeDocumentMoniker": "HotelStayEasy.Api\\Data\\StayEasyDbContext.cs",
@@ -119,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CriarHotelDto.cs",
               "DocumentMoniker": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Models\\DTOs\\CriarHotelDto.cs",
               "RelativeDocumentMoniker": "HotelStayEasy.Api\\Models\\DTOs\\CriarHotelDto.cs",
