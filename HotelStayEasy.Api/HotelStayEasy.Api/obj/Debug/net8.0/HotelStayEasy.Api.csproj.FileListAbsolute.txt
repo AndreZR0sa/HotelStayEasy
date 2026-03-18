@@ -166,3 +166,4 @@ C:\Users\49202808821\source\repos\HotelStayEasy\HotelStayEasy.Api\HotelStayEasy.
 C:\Users\49202808821\source\repos\HotelStayEasy\HotelStayEasy.Api\HotelStayEasy.Api\obj\Debug\net8.0\HotelStayEasy.Api.pdb
 C:\Users\49202808821\source\repos\HotelStayEasy\HotelStayEasy.Api\HotelStayEasy.Api\obj\Debug\net8.0\HotelStayEasy.Api.genruntimeconfig.cache
 C:\Users\49202808821\source\repos\HotelStayEasy\HotelStayEasy.Api\HotelStayEasy.Api\obj\Debug\net8.0\ref\HotelStayEasy.Api.dll
+C:\Users\49202808821\source\repos\HotelStayEasy\HotelStayEasy.Api\HotelStayEasy.Api\obj\Debug\net8.0\HotelStayEasy.Api.sourcelink.json

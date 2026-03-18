@@ -50,9 +50,9 @@
               "Title": "QuartosController.cs",
               "DocumentMoniker": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Controllers\\QuartosController.cs",
               "RelativeDocumentMoniker": "HotelStayEasy.Api\\Controllers\\QuartosController.cs",
-              "ToolTip": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Controllers\\QuartosController.cs",
-              "RelativeToolTip": "HotelStayEasy.Api\\Controllers\\QuartosController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAwEQAAAAfAAAA",
+              "ToolTip": "C:\\Users\\49202808821\\source\\repos\\HotelStayEasy\\HotelStayEasy.Api\\HotelStayEasy.Api\\Controllers\\QuartosController.cs*",
+              "RelativeToolTip": "HotelStayEasy.Api\\Controllers\\QuartosController.cs*",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T16:32:35.148Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "HotelStayEasy.Api\\Controllers\\HoteisController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAIwCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:48:03.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T13:48:03.131Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "HotelStayEasy.Api\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:33:21.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T13:33:21.693Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "HotelStayEasy.Api\\Data\\StayEasyDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:07:10.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T13:07:10.848Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "HotelStayEasy.Api\\Models\\DTOs\\CriarHotelDto.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAA2wCEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:42:08.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T12:42:08.723Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "HotelStayEasy.Api\\Models\\Hotel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:36:00.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T12:36:00.843Z"
             }
           ]
         }
